@@ -1,14 +1,14 @@
 body {
 }
 
-main#container {
+main#container { border: 1px solid black; background-image:linear-gradient(to bottom, red 0%, blue 100%);
 }
 
-h1.titulo {
+h1.titulo { font-family: Arial;
 }
 
-p.frase {
+p.frase { font-family: Arial;
 }
 
-p.autor {
+p.autor { font-family: Arial;
 }
